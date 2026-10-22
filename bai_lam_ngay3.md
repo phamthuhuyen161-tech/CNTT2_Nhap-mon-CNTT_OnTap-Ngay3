@@ -22,7 +22,7 @@
 
 > Công thức được chấm trực tiếp trên file `data/hoc_phi_thang_10.xlsx`.
 
-- **Số dòng còn hiển thị sau khi lọc (câu d):** 8
+- **Số dòng còn hiển thị sau khi lọc (câu d):** 7
 - **Câu e – Vì sao vùng tra cứu cần dấu $:** vì để cố định địa chỉ tuyệt đối cho vùng tra cứu,giúp công thức không bị trôi
 
 ## Tự chấm (điền sau khi có đáp án)
