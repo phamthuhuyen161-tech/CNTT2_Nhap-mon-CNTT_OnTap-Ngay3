@@ -13,10 +13,10 @@ Mô tả dự án: Hệ thống quản lý **thông tin học sinh**
 3. hoàn tất thủ tục đóng học phí 
 ## lệnh Powershell liệt kê nội dung dự án
 ```powershell
-tree /f /a
+get-childitem -recurse -force
 
 Danh sách công việc cần làm
-[x] tạo file README.md đúng cấu trúc
+[x]tạo file README.md đúng cấu trúc
 [] hoàn thành bảng học phí 
 
 Blockquote nhắc không upload.env
