@@ -20,4 +20,4 @@ get-childitem -recurse -force
 - [x] tạo file README.md đúng cấu trúc
 - [ ] hoàn thành bảng học phí 
 
-Blockquote nhắc không upload.env
+> Không được upload .env lên github
