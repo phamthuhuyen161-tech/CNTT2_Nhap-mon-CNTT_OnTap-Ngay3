@@ -16,7 +16,7 @@ Mô tả dự án: Hệ thống quản lý **thông tin học sinh**
 get-childitem -recurse -force
 
 Danh sách công việc cần làm
-[x]tạo file README.md đúng cấu trúc
-[] hoàn thành bảng học phí 
+- [x]tạo file README.md đúng cấu trúc
+- [] hoàn thành bảng học phí 
 
 Blockquote nhắc không upload.env
