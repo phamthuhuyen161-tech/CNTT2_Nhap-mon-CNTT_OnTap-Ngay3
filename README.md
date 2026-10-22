@@ -17,6 +17,6 @@ tree /f /a
 
 Danh sách công việc cần làm
 [x] tạo file README.md đúng cấu trúc
-[ ] hoàn thành bảng học phí 
+[] hoàn thành bảng học phí 
 
 Blockquote nhắc không upload.env
