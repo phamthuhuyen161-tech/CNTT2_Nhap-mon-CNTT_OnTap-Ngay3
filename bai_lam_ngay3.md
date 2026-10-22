@@ -10,13 +10,13 @@
 > README.md được chấm trực tiếp trên file `README.md` ở thư mục gốc. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
 
 - [x] Heading 1: tên dự án
-- [ x] Ít nhất 2 heading cấp 2
-- [x ] Mô tả ngắn có cả **in đậm** và *in nghiêng*
-- [x ] Bảng `Thư mục | Nội dung`, ít nhất 3 dòng dữ liệu
-- [ x] Danh sách đánh số ít nhất 3 bước
-- [x ] Code block chứa lệnh PowerShell/Terminal liệt kê nội dung dự án
-- [x ] Task list ít nhất 2 công việc, có ít nhất 1 mục đã hoàn thành
-- [ x] Blockquote nhắc không upload `.env`
+- [x] Ít nhất 2 heading cấp 2
+- [x] Mô tả ngắn có cả **in đậm** và *in nghiêng*
+- [x] Bảng `Thư mục | Nội dung`, ít nhất 3 dòng dữ liệu
+- [x] Danh sách đánh số ít nhất 3 bước
+- [x] Code block chứa lệnh PowerShell/Terminal liệt kê nội dung dự án
+- [x] Task list ít nhất 2 công việc, có ít nhất 1 mục đã hoàn thành
+- [x] Blockquote nhắc không upload `.env`
 
 ## Bài 2. Excel
 
