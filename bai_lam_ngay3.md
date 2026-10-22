@@ -9,7 +9,7 @@
 
 > README.md được chấm trực tiếp trên file `README.md` ở thư mục gốc. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
 
-- [ x ] Heading 1: tên dự án
+- [x] Heading 1: tên dự án
 - [ x] Ít nhất 2 heading cấp 2
 - [x ] Mô tả ngắn có cả **in đậm** và *in nghiêng*
 - [x ] Bảng `Thư mục | Nội dung`, ít nhất 3 dòng dữ liệu
