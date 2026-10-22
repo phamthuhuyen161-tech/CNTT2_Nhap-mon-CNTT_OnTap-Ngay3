@@ -15,7 +15,7 @@ Mô tả dự án: Hệ thống quản lý **thông tin học sinh**
 ```powershell
 get-childitem -recurse -force
 
-Danh sách công việc cần làm
+*"Danh sách công việc cần làm"*
 - [x] tạo file README.md đúng cấu trúc
 - [ ] hoàn thành bảng học phí 
 
